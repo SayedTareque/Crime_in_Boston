@@ -4,7 +4,7 @@
 
 # Crimes in Boston
 
-This project analyzes crime data from various cities in Boston. The dataset includes information about the type of crime, location, time, and other related details. The Python script performs various analyses on the dataset to answer specific questions related to crime trends and patterns.
+This project aims to provide insights into the nature and extent of crime in Boston over a period of four years from 2015 to 2018. The dataset includes information about the type of crime, location, time, and other related details. Using Python, the script performs various analyses on the dataset to answer specific questions related to crime trends and patterns. By leveraging techniques such as data cleaning, data visualization, the project provides a comprehensive understanding of the crime landscape in Boston. The insights derived from the analysis can help stakeholders, including law enforcement agencies and policymakers, make informed decisions to enhance public safety and reduce crime rates.
 
 
 ## Questions explored

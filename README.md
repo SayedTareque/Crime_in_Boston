@@ -26,4 +26,4 @@ pip install pandas numpy matplotlib seaborn
 Download the 'Crimes_in_USA.ipynb' file from the repository and open it in a Jupyter Notebook or any other compatible environment.
 Run the code cell by cell to get the answers to the questions.
 
-Note: The dataset used in this project is included in the repository as a CSV file. You can also download the dataset from Kaggle. If you choose to download the dataset from Kaggle, you will need to update the file path in the Python script accordingly.
+Note: The dataset used in this project is included in the repository as a CSV file. You can also download the dataset from Kaggle. If you choose to download the dataset from [Kaggle](https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston), you will need to update the file path in the Python script accordingly.

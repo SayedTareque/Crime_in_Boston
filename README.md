@@ -38,4 +38,12 @@ The following Python libraries were used in the notebook:
 
 ## Conclusion
 
-Through the analysis of the dataset, we were able to gain insights into the crimes that occurred in Boston from 2015 to 2018. We found that larceny and drug offenses were the most common in terms of offense group and offense description, respectively. We also found that there was a slight increase in the number of crimes committed in 2016 compared to the other years in the dataset. Additionally, we discovered that there were more crimes committed during the day than during the night and that Friday was the day with the highest number of incidents. We also found that certain streets and districts had a higher incidence of crime. Finally, we found that on average, the most crimes occurred during the summer months of June, July, and August.
+After analyzing the crimes dataset of Boston from 2015 to 2018, a number of interesting findings were revealed.
+
+In terms of offense group, larceny was found to be the most common crime, followed by other offenses such as vandalism and motor vehicle theft. However, when looking at the offense descriptions, drug offenses were the most frequently committed crime. This information could be useful for law enforcement agencies to allocate resources effectively towards the prevention of these crimes.
+
+Moreover, an analysis of the data revealed that there was a slight increase in the number of crimes committed in 2016 as compared to the other years in the dataset. This finding could be used to investigate the factors that led to this increase and help in developing strategies to prevent a similar increase in the future.
+
+Furthermore, the analysis showed that more crimes were committed during the day as compared to the night, with Friday being the day with the highest number of incidents. This information could be helpful in devising targeted law enforcement strategies for specific days and times.
+
+Finally, the data showed that the most crimes occurred during the summer months of June, July, and August. This information can be used to improve policing efforts and increase surveillance during these months to prevent potential crimes.
